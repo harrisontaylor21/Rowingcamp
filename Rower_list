@@ -1,0 +1,14 @@
+# Harrison Taylor
+# August 2, 2022
+# rower list, can make function to auto-generate
+
+from rower_class import Rower
+
+Rower("jacob", "port", 75, 5.52)
+Rower("miles", "starboard", 79, 5.49)
+Rower("billy", "port", 77, 6.03)
+Rower("joe", "starboard", 75, 6.08)
+Rower("caleb", "starboard", 77, 5.55)
+Rower("harrison", "port", 78, 6.05)
+Rower("hank", "starboard", 75, 6.09)
+Rower("james", "port", 73, 6.06)
